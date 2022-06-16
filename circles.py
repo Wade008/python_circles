@@ -3,7 +3,7 @@
 # Set base variables
 welcome = "Welcome to circles.py!\nThis program will calculate the area and circumference of a circle."
 
-radPrompt = "\n\nPlease enter the radius of the circle:  "
+radPrompt = "\n\nPlease enter the radius of the circle (in cm):  "
 
 pi = 3.141529
 
